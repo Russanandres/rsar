@@ -1,6 +1,4 @@
----
-theme: jekyll-theme-midnight
----
+
 # Привет. Это страница с новостями о LightROM.
 [Назад](https://russanandres.github.io/rsar/)
 
