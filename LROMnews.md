@@ -1,8 +1,3 @@
----
-title: LightROMnews
----
-
-
 # Привет. Это страница с новостями о LightROM.
 [Назад](https://russanandres.github.io/rsar/)
 
