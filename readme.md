@@ -12,4 +12,4 @@
 [DH-Scripts](https://github.com/Russanandres/DuckHunter-scripts) | [Debian Simulator](https://github.com/Russanandres/Debian-simulator)
 
 ### Будущие проекты (идеи)
-WINsim.sh | HoneyComb stock (HTC Flyer) | HTC Dream Android 1.0 Remix
+WINsim.sh | ~~HTC Dream Android 1.0 Remix (уже выложенно на XDA)~~
